@@ -72,7 +72,7 @@ Ready-to-use example implementations:
 Practice exercises with increasing complexity:
 - `01_network_capture.py` - Nike product data extraction
 - `02_pagination_classic.py` - Job listings scraper
-- `03_infinite_scroll.py` - Social media posts scraper
+- `03_infinite_scroll.py` - Nike Product Extraction using Infinite scroll actions Zyte API. 
 - `04_form_submission.py` - Quote search form automation
 - `practice_scenarios.py` - Additional challenges
 
