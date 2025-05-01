@@ -16,7 +16,7 @@ Learn to build robust web scrapers using Zyte API, handling different scraping s
 ### Prerequisites
 - Python 3.8 or higher
 - [Cursor IDE](https://www.cursor.com/downloads) installed
-- [Zyte API account](https://www.zyte.com/zyte-api/?utm_campaign=DIS-ONBOARD&utm_activity=Community&utm_medium=social&utm_source=Discord&utm_content=zyte_api_edc) and API key
+- [Zyte API account](https://www.zyte.com/zyte-api/?utm_campaign=DIS-ONBOARD&utm_activity=Community&utm_medium=social&utm_source=Discord&utm_content=zyte_api_Web32) and API key
 - Basic understanding of Python and web scraping concepts
 
 ### Installation
