@@ -165,8 +165,4 @@ Feel free to:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ✨ Acknowledgments
 
-- Zyte team for the excellent API
-- Cursor IDE team for the development environment
-- All contributors and participants 
