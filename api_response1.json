@@ -1,0 +1,478 @@
+{
+  "url": "https://www.firstcry.com/searchresult?sale=6&searchstring=brand@@@@1@0@20@@@@@@@@@@@@@@@@&sort=bestseller&gender=boy,unisex&ref2=menu_dd_boy-fashion_bestsellers_V#sale=6&searchstring=brand@@@@1@0@20@@@@@@@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&PageNo=1&scrollPos=0&pview=&tc=97067",
+  "statusCode": 200,
+  "productList": {
+    "breadcrumbs": [
+      {
+        "name": "Home",
+        "url": "https://www.firstcry.com/"
+      },
+      {
+        "name": "Clothes & Shoes",
+        "url": "https://www.firstcry.com/clothes-and-fashion-accessories"
+      },
+      {
+        "name": "bestseller"
+      }
+    ],
+    "products": [
+      {
+        "url": "https://www.firstcry.com/babyhug-disney/babyhug-disney-interlock-knit-mid-thigh-trunk-with-mickey-and-family-graphics-pack-of-3-light-blue-light-green-and-blue/19946261/product-detail",
+        "name": "Babyhug Disney Interlock Knit Mid Thigh Trunk With Mickey & Family...",
+        "price": "428.22",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19946261a.webp"
+        },
+        "metadata": {
+          "probability": 0.8727107780485994
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/babyhug/babyhug-100-cotton-woven-solid-coloured-shorts-beige/20005496/product-detail",
+        "name": "Babyhug 100% Cotton Woven Solid Coloured Shorts - Beige",
+        "price": "414.17",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/20005496a.webp"
+        },
+        "metadata": {
+          "probability": 0.8557961427333964
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/toffyhouse/toffyhouse-poplin-woven-half-sleeves-ombre-shirt-and-shorts-set-with-suspenders-and-bow-with-tan-and-grey/19240199/product-detail",
+        "name": "ToffyHouse Poplin Woven Half Sleeves Ombre Shirt & Shorts Set with...",
+        "price": "909.15",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19240199a.webp"
+        },
+        "metadata": {
+          "probability": 0.8997276234784977
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/babyhug/babyhug-100-cotton-woven-solid-coloured-shorts-black/20005488/product-detail",
+        "name": "Babyhug 100% Cotton Woven Solid Coloured Shorts - Black",
+        "price": "424.15",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/20005488a.webp"
+        },
+        "metadata": {
+          "probability": 0.892541434951795
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/jandjp/jandjp-cotton-pack-of-5-half-sleeves-space-theme-and-typography-printed-tees-white-black-grey-beige-and-mint/19885329/product-detail",
+        "name": "J&JP Cotton Pack Of 5 Half Sleeves Space Theme & Typography Printed...",
+        "price": "459.54",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19885329a.webp"
+        },
+        "metadata": {
+          "probability": 0.8484122965404595
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/cute-walk-by-babyhug/cute-walk-by-babyhug-velcro-closure-sandals-with-3d-applique-navy-blue/20051266/product-detail",
+        "name": "Cute Walk by Babyhug Velcro Closure Sandals with 3D Applique - Navy Blue",
+        "price": "893.76",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/20051266a.webp"
+        },
+        "metadata": {
+          "probability": 0.7831443295842462
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/ben-benny/ben-benny-100-cotton-interlock-knit-caps-mittens-and-booties-set-with-polka-dots-print-white-diameter-9-cm/19908113/product-detail",
+        "name": "Ben Benny 100% Cotton Interlock Knit Caps Mittens & Booties Set With...",
+        "price": "219.12",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19908113a.webp"
+        },
+        "metadata": {
+          "probability": 0.8586581671752356
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/kuchipoo/kuchipoo-cotton-blend-pack-of-5-space-theme-and-tiger-printed-shorts-blue-yellow-grey-navy-blue-and-red/19974096/product-detail",
+        "name": "KUCHIPOO Cotton Blend Pack Of 5 Space Theme & Tiger Printed...",
+        "price": "477.98",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19974096a.webp"
+        },
+        "metadata": {
+          "probability": 0.8417958891796218
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/zero/zero-sinker-knit-half-sleeves-t-shirt-and-shorts-set-navy-blue/19854274/product-detail",
+        "name": "Zero Sinker Knit Half Sleeves T-Shirt & Shorts Set - Navy Blue",
+        "price": "267.75",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19854274a.webp"
+        },
+        "metadata": {
+          "probability": 0.8916177440742103
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/jandjp/jandjp-cotton-looper-pack-of-3-cool-dude-text-and-dinosaur-printed-track-pants-red-black-and-blue/19885653/product-detail",
+        "name": "J&JP Cotton Looper Pack Of 3 Cool Dude Text & Dinosaur Printed...",
+        "price": "739.63",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19885653a.webp"
+        },
+        "metadata": {
+          "probability": 0.8851175887037357
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/zero/zero-sinker-knit-half-sleeves-polo-t-shirt-and-shorts-set-with-space-explorer-print-limegreen/19855230/product-detail",
+        "name": "Zero Sinker Knit Half Sleeves Polo T-Shirt & Shorts Set with Space...",
+        "price": "343.65",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19855230a.webp"
+        },
+        "metadata": {
+          "probability": 0.845884328195865
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/little-kangaroos/little-kangaroos-knitted-half-sleeves-solid-color-polo-t-shirt-baby-pink/20144189/product-detail",
+        "name": "Little Kangaroos Knitted Half Sleeves Solid Color Polo T-Shirt...",
+        "price": "738.63",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/20144189a.webp"
+        },
+        "metadata": {
+          "probability": 0.8614684199498299
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/pine-kids-marvel/pine-kids-marvel-avengers-printed-casual-shoes-with-velcro-closure-navy-blue/18915212/product-detail",
+        "name": "Pine Kids Marvel Avengers Printed Casual Shoes with Velcro Closure...",
+        "price": "1063.24",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/18915212a.webp"
+        },
+        "metadata": {
+          "probability": 0.8328362867888472
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/babyoye/babyoye-100-cotton-knit-half-sleeves-shirts-and-shorts-set-with-floral-print-yellow-and-blue/19543836/product-detail",
+        "name": "Babyoye 100% Cotton Knit Half Sleeves Shirts and Shorts Set...",
+        "price": "961.73",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19543836a.webp"
+        },
+        "metadata": {
+          "probability": 0.8111562569125113
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/fourfolds/fourfolds-full-sleeves-abstract-embroidered-coordinating-sherwani-and-pant-with-necklace-pink/18576231/product-detail",
+        "name": "Fourfolds Full Sleeves Abstract Embroidered Coordinating Sherwani...",
+        "price": "899.64",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/18576231a.webp"
+        },
+        "metadata": {
+          "probability": 0.8478125299745614
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/babyhug/babyhug-cotton-knit-half-sleeves-striped-t-shirts-with-sports-theme-print-pack-of-5-multicolor/19455759/product-detail",
+        "name": "Babyhug Cotton Knit Half Sleeves Striped T-Shirts with Sports...",
+        "price": "1025.24",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19455759a.webp"
+        },
+        "metadata": {
+          "probability": 0.8956366661571735
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/yellow-bee/yellow-bee-eva-dinosaur-detailed-boots-black-and-green/18438199/product-detail",
+        "name": "Yellow Bee Eva Dinosaur Detailed Boots - Black & Green",
+        "price": "1192.73",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/18438199a.webp"
+        },
+        "metadata": {
+          "probability": 0.809034848425398
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/cute-walk-by-babyhug/cute-walk-by-babyhug-velcro-closure-sandals-with-3d-applique-tan/20051285/product-detail",
+        "name": "Cute Walk by Babyhug Velcro Closure Sandals with 3D Applique - Tan",
+        "price": "893.76",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/20051285a.webp"
+        },
+        "metadata": {
+          "probability": 0.793396818090514
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/pine-kids-marvel/pine-kids-marvel-100-cotton-knit-drop-shoulder-half-sleeves-t-shirt-and-shorts-with-captain-america-graphics-blue/19812494/product-detail",
+        "name": "Pine Kids Marvel 100% Cotton Knit Drop Shoulder Half Sleeves...",
+        "price": "857.22",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19812494a.webp"
+        },
+        "metadata": {
+          "probability": 0.8394543339762492
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/cute-walk-by-babyhug/cute-walk-by-babyhug-velcro-closure-sandals-with-3d-applique-grey/20051276/product-detail",
+        "name": "Cute Walk by Babyhug Velcro Closure Sandals with 3D Applique - Grey",
+        "price": "893.76",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/20051276a.webp"
+        },
+        "metadata": {
+          "probability": 0.8324134457961918
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/cute-walk-by-babyhug/cute-walk-by-babyhug-velcro-closure-sandals-with-applique-beige/20051305/product-detail",
+        "name": "Cute Walk by Babyhug Velcro Closure Sandals with Applique - Beige",
+        "price": "884.01",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/20051305a.webp"
+        },
+        "metadata": {
+          "probability": 0.8321431086740176
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/zero/zero-sinker-knit-half-sleeves-t-shirt-and-shorts-set-with-stripes-and-animal-print-brown-and-white/19835011/product-detail",
+        "name": "Zero Sinker Knit Half Sleeves T-Shirt & Shorts Set with Stripes...",
+        "price": "287.1",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19835011a.webp"
+        },
+        "metadata": {
+          "probability": 0.8803605689711276
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/toffyhouse/toffyhouse-cotton-knit-jungle-theme-embroidered-and-printed-dungaree-and-half-sleeves-inner-tee-light-blue/19419590/product-detail",
+        "name": "ToffyHouse Cotton Knit Jungle Theme Embroidered & Printed Dungaree &...",
+        "price": "735.15",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19419590a.webp"
+        },
+        "metadata": {
+          "probability": 0.8073535576750999
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/knitroot/knitroot-cotton-lycra-mothers-day-theme-half-sleeves-happy-mothers-day-to-the-best-mom-ever-text-printed-tee-white/20042876/product-detail",
+        "name": "KNITROOT Cotton Lycra Mothers Day Theme Half Sleeves Happy Mothers...",
+        "price": "413.08",
+        "regularPrice": "449.0",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/20042876a.webp"
+        },
+        "metadata": {
+          "probability": 0.7820178272997964
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/babyhug/babyhug-100-cotton-woven-solid-coloured-shorts-white/20005485/product-detail",
+        "name": "Babyhug 100% Cotton Woven Solid Coloured Shorts - White",
+        "price": "424.15",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/20005485a.webp"
+        },
+        "metadata": {
+          "probability": 0.861893076464753
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/cute-walk-by-babyhug/cute-walk-by-babyhug-velcro-closure-sandals-with-fashion-text-print-navy-blue/20051237/product-detail",
+        "name": "Cute Walk by Babyhug Velcro Closure Sandals with Fashion Text Print -...",
+        "price": "893.76",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/20051237a.webp"
+        },
+        "metadata": {
+          "probability": 0.8123662732212722
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/pine-kids/pine-kids-slip-on-knitted-sneakers-grey-and-black/19967854/product-detail",
+        "name": "Pine Kids Slip On Knitted Sneakers - Grey & Black",
+        "price": "591.71",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19967854a.webp"
+        },
+        "metadata": {
+          "probability": 0.7761083023186472
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/kookie-kids-india/kookie-kids-denim-woven-full-length-solid-color-jeans-black/19259745/product-detail",
+        "name": "Kookie Kids Denim Woven Full Length Solid Color Jeans -Black",
+        "price": "387.03",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19259745a.webp"
+        },
+        "metadata": {
+          "probability": 0.8979533897011436
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/babyoye/babyoye-velcro-closure-casual-shoes-with-colour-block-design-beige/18050588/product-detail",
+        "name": "Babyoye Velcro Closure Casual Shoes With Colour Block Design - Beige",
+        "price": "884.73",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/18050588a.webp"
+        },
+        "metadata": {
+          "probability": 0.8825225046004732
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/babyhug/babyhug-100-cotton-knit-half-sleeves-polo-t-shirt-with-dino-print-yellow/20139901/product-detail",
+        "name": "Babyhug 100% Cotton Knit Half Sleeves Polo T-Shirt with Dino...",
+        "price": "331.17",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/20139901a.webp"
+        },
+        "metadata": {
+          "probability": 0.8867210462574633
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/guess/guess-all-over-printed-shorts-blue/13721335/product-detail",
+        "name": "Guess All Over Printed Shorts - Blue",
+        "price": "4899.3",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/13721335a.webp"
+        },
+        "metadata": {
+          "probability": 0.8849189939937503
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/mini-donuts/mini-donuts-full-length-lounge-pants-dino-print-pack-of-3-green-blue-and-beige/14040003/product-detail",
+        "name": "Mini Donuts Full Length Lounge Pants Dino Print Pack Of 3 - Green Blue...",
+        "price": "503.16",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/14040003a.webp"
+        },
+        "metadata": {
+          "probability": 0.9100601706602447
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/taeko/taeko-single-jersey-knit-knee-length-shorts-with-work-hard-play-hard-text-print-black/19925443/product-detail",
+        "name": "Taeko Single Jersey Knit Knee Length Shorts with Work Hard Play Hard...",
+        "price": "220.15",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19925443a.webp"
+        },
+        "metadata": {
+          "probability": 0.9074149547163017
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/babyhug/babyhug-cotton-knit-half-sleeves-striped-polo-t-shirt-with-animal-badge-detailing-red-and-white/19843199/product-detail",
+        "name": "Babyhug Cotton Knit Half Sleeves Striped Polo T-Shirt With Animal...",
+        "price": "424.15",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19843199a.webp"
+        },
+        "metadata": {
+          "probability": 0.8738931515667048
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/pantaloons-junior/pantaloons-junior-cotton-half-sleeves-fox-patch-detailed-polo-tee-white/19362471/product-detail",
+        "name": "Pantaloons Junior Cotton Half Sleeves Fox Patch Detailed Polo...",
+        "price": "479.2",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19362471a.webp"
+        },
+        "metadata": {
+          "probability": 0.9269822437602215
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/ollington-st/ollington-st-cotton-knit-sports-theme-printed-half-sleeves-knit-shirt-and-shorts-with-inner-t-shirt-white-and-navy-blue/20073033/product-detail",
+        "name": "OLLINGTON ST. Cotton Knit Sports Theme Printed Half Sleeves Knit...",
+        "price": "710.21",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/20073033a.webp"
+        },
+        "metadata": {
+          "probability": 0.8809728684971958
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/taeko/taeko-single-jersey-knit-knee-length-shorts-with-racing-club-text-print-tan/19925424/product-detail",
+        "name": "Taeko Single Jersey Knit Knee Length Shorts With Racing Club Text...",
+        "price": "220.15",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19925424a.webp"
+        },
+        "metadata": {
+          "probability": 0.8949123899028564
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/ben-benny/ben-benny-100-cotton-interlock-knit-cap-mittens-and-booties-set-with-animal-print-white-diameter-10-cm/19908120/product-detail",
+        "name": "Ben Benny 100% Cotton Interlock Knit Cap Mittens & Booties Set With...",
+        "price": "219.12",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19908120a.webp"
+        },
+        "metadata": {
+          "probability": 0.8376136872230404
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/little-kangaroos/little-kangaroos-knitted-half-sleeves-solid-color-polo-t-shirt-black/20144169/product-detail",
+        "name": "Little Kangaroos Knitted Half Sleeves Solid Color Polo T-Shirt...",
+        "price": "738.63",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/20144169a.webp"
+        },
+        "metadata": {
+          "probability": 0.9374650693335411
+        }
+      },
+      {
+        "url": "https://www.firstcry.com/lil-homies/lil-homies-jacquard-full-sleeves-solid-padded-blazer-with-pant-navy-blue/19967399/product-detail",
+        "name": "Lil' Homies Jacquard Full Sleeves Solid Padded Blazer With Pant -...",
+        "price": "1264.45",
+        "mainImage": {
+          "url": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/19967399a.webp"
+        },
+        "metadata": {
+          "probability": 0.9460743930571311
+        }
+      }
+    ],
+    "url": "https://www.firstcry.com/searchresult?sale=6&searchstring=brand@@@@1@0@20@@@@@@@@@@@@@@@@&sort=bestseller&gender=boy,unisex&ref2=menu_dd_boy-fashion_bestsellers_V#sale=6&searchstring=brand@@@@1@0@20@@@@@@@@@@@@@@@@@@@@@&rating=&sort=bestseller&&vi=three&pmonths=&cgen=&skills=&measurement=&material=&curatedcollections=&Color=&Age=&gender=both,male&ser=&premium=&deliverytype=&PageNo=1&scrollPos=0&pview=&tc=97067",
+    "metadata": {
+      "dateDownloaded": "2025-05-06T03:48:05Z"
+    },
+    "categoryName": "bestsellers In Baby & Kids Clothes & Shoes"
+  },
+  "customAttributes": {
+    "values": {},
+    "metadata": {
+      "inputTokens": 19673,
+      "outputTokens": 28,
+      "textInputTokens": 19281,
+      "textInputTokensBeforeTruncation": 29863,
+      "maxInputTokens": 19674,
+      "excludedPIIAttributes": []
+    }
+  }
+}

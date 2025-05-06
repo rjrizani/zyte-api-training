@@ -50,8 +50,21 @@ def get_nike_products(category: str) -> List[Dict]:
     
     try:
         # TODO: Make the API request via Zyte proxy
+        response = requests.get(api_url, headers=headers, 
+                                proxies=proxies,  timeout=30,
+                                verify=False)
+        response.raise_for_status()  # Raise an error for bad responses
+
+        data =response.json()
+        save_to_json(data, filename="nike_products.json")
+        print(f"Data saved to nike_products.json")
+
         # TODO: Process the response and extract products
+
+        if response.status_code != 200:
+            raise Exception(f"Failed to fetch data: {response.status_code} - {response.text}")
         # TODO: Format the product data
+
         pass
         
     except Exception as e:
@@ -131,7 +144,8 @@ def main():
             print(f"No products found for {category_name}")
 
 if __name__ == "__main__":
-    main()
+    get_nike_products('football')
+    #main()
 
 """
 Exercise Tasks:

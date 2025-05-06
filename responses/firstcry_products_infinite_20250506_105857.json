@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "product_price": "428.22",
+      "original_price": "549",
+      "club_price": "417.24",
+      "product_url": null,
+      "scraped_at": "2025-05-06 10:58:54"
+    }
+  ],
+  "metadata": {
+    "count": 1,
+    "timestamp": "2025-05-06 10:58:57"
+  }
+}
